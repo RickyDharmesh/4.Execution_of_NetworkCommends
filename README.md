@@ -25,7 +25,9 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+
 ## Program 
+
 client.py
 ```
 import socket
@@ -53,9 +55,11 @@ while True:
 ```
 
 ## Output
+
 <img width="1628" height="353" alt="Screenshot 2026-05-23 195900" src="https://github.com/user-attachments/assets/3c2f5f14-3863-4599-9bc7-88b3eb260d8e" />
 
 NETSTAT:
+
 <img width="1016" height="939" alt="Screenshot 2026-05-23 195105" src="https://github.com/user-attachments/assets/4215ea37-aabb-41fc-9560-62a444539350" />
 
 IPCONFIG:
@@ -74,6 +78,7 @@ TRACERT:
 
 
 NSLOOKUP:
+
 <img width="1197" height="821" alt="Screenshot 2026-05-23 195929" src="https://github.com/user-attachments/assets/37cc5a65-462e-4cec-8a84-b0d3ab40bdc9" />
 
 
